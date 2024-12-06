@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+     
+}
+
+
+table,th,tr,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    height: 40px;
+    
+    
+}
+
+table{
+    width: 50%;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+tr{
+    text-align: center;
+    font-weight: bold;
+}
+tr td{
+    color: blue;
+    
+}
+
